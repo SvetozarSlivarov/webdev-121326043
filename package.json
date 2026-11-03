@@ -1,0 +1,8 @@
+{
+  "name": "lecture-mcp-server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "mcp": "node mcp-server/server.js"
+  }
+}
